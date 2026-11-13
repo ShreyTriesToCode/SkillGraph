@@ -1,0 +1,926 @@
+{
+  "source": "DEMO DATA",
+  "skills": [
+    {
+      "id": "python",
+      "label": "Python",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [
+        "python3",
+        "py"
+      ],
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "sql",
+      "label": "SQL",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [
+        "structured query language"
+      ],
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "git",
+      "label": "Git",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [
+        "version control"
+      ],
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "basic-statistics",
+      "label": "Basic Statistics",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [
+        "statistics",
+        "stats"
+      ],
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "pandas",
+      "label": "Pandas",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [
+        "python"
+      ],
+      "effort_hours": 24
+    },
+    {
+      "id": "etl",
+      "label": "ETL",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [
+        "extract transform load"
+      ],
+      "category": "technical",
+      "prerequisites": [
+        "python",
+        "sql"
+      ],
+      "effort_hours": 24
+    },
+    {
+      "id": "data-warehousing",
+      "label": "Data Warehousing",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [
+        "etl",
+        "database-design"
+      ],
+      "effort_hours": 24
+    },
+    {
+      "id": "cloud-computing",
+      "label": "Cloud Computing",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [
+        "basic cloud computing",
+        "cloud",
+        "cloud platforms"
+      ],
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "database-design",
+      "label": "Database Design",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [
+        "sql"
+      ],
+      "effort_hours": 24
+    },
+    {
+      "id": "html",
+      "label": "HTML",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "css",
+      "label": "CSS",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "javascript",
+      "label": "JavaScript",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [
+        "js",
+        "javascript es6"
+      ],
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "react",
+      "label": "React",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "effort_hours": 24
+    },
+    {
+      "id": "typescript",
+      "label": "TypeScript",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [
+        "javascript"
+      ],
+      "effort_hours": 24
+    },
+    {
+      "id": "accessibility",
+      "label": "Accessibility",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "rest-apis",
+      "label": "REST APIs",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "nodejs",
+      "label": "Node.js",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "testing",
+      "label": "Testing",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "linux",
+      "label": "Linux",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "networking",
+      "label": "Networking",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "docker",
+      "label": "Docker",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [
+        "linux"
+      ],
+      "effort_hours": 24
+    },
+    {
+      "id": "ci-cd",
+      "label": "CI/CD",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [
+        "git",
+        "testing"
+      ],
+      "effort_hours": 24
+    },
+    {
+      "id": "kubernetes",
+      "label": "Kubernetes",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [
+        "docker",
+        "linux"
+      ],
+      "effort_hours": 24
+    },
+    {
+      "id": "security",
+      "label": "Security",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "machine-learning",
+      "label": "Machine Learning",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [
+        "python",
+        "basic-statistics",
+        "linear-algebra"
+      ],
+      "effort_hours": 24
+    },
+    {
+      "id": "linear-algebra",
+      "label": "Linear Algebra",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "data-visualization",
+      "label": "Data Visualization",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [
+        "basic-statistics"
+      ],
+      "effort_hours": 24
+    },
+    {
+      "id": "communication",
+      "label": "Communication",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "soft",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "java",
+      "label": "Java",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "algorithms",
+      "label": "Algorithms",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "system-design",
+      "label": "System Design",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "terraform",
+      "label": "Terraform",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [
+        "cloud-computing"
+      ],
+      "effort_hours": 24
+    },
+    {
+      "id": "monitoring",
+      "label": "Monitoring",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "agile",
+      "label": "Agile",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "soft",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "excel",
+      "label": "Excel",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 12
+    },
+    {
+      "id": "incident-response",
+      "label": "Incident Response",
+      "source": "DEMO DATA \u2014 curated vocabulary",
+      "aliases": [],
+      "category": "technical",
+      "prerequisites": [
+        "security",
+        "networking"
+      ],
+      "effort_hours": 24
+    }
+  ],
+  "occupations": [
+    {
+      "id": "data-engineer",
+      "label": "Data Engineer",
+      "description": "Data Engineer work combines the listed technical competencies with practical project experience. This is a curated teaching profile, not an official occupational standard.",
+      "source": "DEMO DATA \u2014 curated occupation",
+      "requirements": [
+        {
+          "skill": "python",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "sql",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "etl",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "data-warehousing",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "database-design",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "cloud-computing",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "git",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "pandas",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "communication",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        }
+      ]
+    },
+    {
+      "id": "data-analyst",
+      "label": "Data Analyst",
+      "description": "Data Analyst work combines the listed technical competencies with practical project experience. This is a curated teaching profile, not an official occupational standard.",
+      "source": "DEMO DATA \u2014 curated occupation",
+      "requirements": [
+        {
+          "skill": "sql",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "basic-statistics",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "pandas",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "data-visualization",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "excel",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "python",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "communication",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        }
+      ]
+    },
+    {
+      "id": "machine-learning-engineer",
+      "label": "Machine Learning Engineer",
+      "description": "Machine Learning Engineer work combines the listed technical competencies with practical project experience. This is a curated teaching profile, not an official occupational standard.",
+      "source": "DEMO DATA \u2014 curated occupation",
+      "requirements": [
+        {
+          "skill": "python",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "machine-learning",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "linear-algebra",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "basic-statistics",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "pandas",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "docker",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "git",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "cloud-computing",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        }
+      ]
+    },
+    {
+      "id": "frontend-developer",
+      "label": "Frontend Developer",
+      "description": "Frontend Developer work combines the listed technical competencies with practical project experience. This is a curated teaching profile, not an official occupational standard.",
+      "source": "DEMO DATA \u2014 curated occupation",
+      "requirements": [
+        {
+          "skill": "html",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "css",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "javascript",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "react",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "accessibility",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "typescript",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "git",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "testing",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        }
+      ]
+    },
+    {
+      "id": "full-stack-developer",
+      "label": "Full Stack Developer",
+      "description": "Full Stack Developer work combines the listed technical competencies with practical project experience. This is a curated teaching profile, not an official occupational standard.",
+      "source": "DEMO DATA \u2014 curated occupation",
+      "requirements": [
+        {
+          "skill": "javascript",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "react",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "nodejs",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "rest-apis",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "sql",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "git",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "docker",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "testing",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        }
+      ]
+    },
+    {
+      "id": "cloud-engineer",
+      "label": "Cloud Engineer",
+      "description": "Cloud Engineer work combines the listed technical competencies with practical project experience. This is a curated teaching profile, not an official occupational standard.",
+      "source": "DEMO DATA \u2014 curated occupation",
+      "requirements": [
+        {
+          "skill": "cloud-computing",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "linux",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "networking",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "terraform",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "python",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "docker",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "security",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        }
+      ]
+    },
+    {
+      "id": "devops-engineer",
+      "label": "DevOps Engineer",
+      "description": "DevOps Engineer work combines the listed technical competencies with practical project experience. This is a curated teaching profile, not an official occupational standard.",
+      "source": "DEMO DATA \u2014 curated occupation",
+      "requirements": [
+        {
+          "skill": "linux",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "docker",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "ci-cd",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "cloud-computing",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "monitoring",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "kubernetes",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "python",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "git",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        }
+      ]
+    },
+    {
+      "id": "cybersecurity-analyst",
+      "label": "Cybersecurity Analyst",
+      "description": "Cybersecurity Analyst work combines the listed technical competencies with practical project experience. This is a curated teaching profile, not an official occupational standard.",
+      "source": "DEMO DATA \u2014 curated occupation",
+      "requirements": [
+        {
+          "skill": "networking",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "linux",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "security",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "incident-response",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "python",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "monitoring",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "communication",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        }
+      ]
+    },
+    {
+      "id": "software-engineer",
+      "label": "Software Engineer",
+      "description": "Software Engineer work combines the listed technical competencies with practical project experience. This is a curated teaching profile, not an official occupational standard.",
+      "source": "DEMO DATA \u2014 curated occupation",
+      "requirements": [
+        {
+          "skill": "algorithms",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "git",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "testing",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "rest-apis",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "system-design",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "java",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "python",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "agile",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        }
+      ]
+    },
+    {
+      "id": "database-administrator",
+      "label": "Database Administrator",
+      "description": "Database Administrator work combines the listed technical competencies with practical project experience. This is a curated teaching profile, not an official occupational standard.",
+      "source": "DEMO DATA \u2014 curated occupation",
+      "requirements": [
+        {
+          "skill": "sql",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "database-design",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "linux",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "monitoring",
+          "type": "essential",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "security",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "python",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        },
+        {
+          "skill": "cloud-computing",
+          "type": "optional",
+          "source": "DEMO DATA \u2014 curated requirement"
+        }
+      ]
+    }
+  ],
+  "related": [
+    [
+      "python",
+      "pandas"
+    ],
+    [
+      "sql",
+      "database-design"
+    ],
+    [
+      "javascript",
+      "typescript"
+    ],
+    [
+      "docker",
+      "kubernetes"
+    ],
+    [
+      "cloud-computing",
+      "terraform"
+    ],
+    [
+      "basic-statistics",
+      "machine-learning"
+    ],
+    [
+      "security",
+      "incident-response"
+    ]
+  ],
+  "students": [
+    {
+      "name": "Demo Student A",
+      "skills": {
+        "python": 3,
+        "sql": 3,
+        "pandas": 3,
+        "basic-statistics": 3,
+        "git": 3
+      },
+      "interests": [
+        "Data Engineering",
+        "Data Analysis",
+        "Machine Learning"
+      ]
+    },
+    {
+      "name": "Demo Student B",
+      "skills": {
+        "html": 3,
+        "css": 3,
+        "javascript": 3,
+        "react": 3,
+        "git": 3
+      },
+      "interests": [
+        "Frontend Development",
+        "Full-Stack Development"
+      ]
+    },
+    {
+      "name": "Demo Student C",
+      "skills": {
+        "linux": 3,
+        "networking": 3,
+        "python": 3,
+        "git": 3,
+        "cloud-computing": 3
+      },
+      "interests": [
+        "Cloud Engineering",
+        "DevOps",
+        "Cybersecurity"
+      ]
+    }
+  ]
+}

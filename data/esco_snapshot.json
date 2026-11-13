@@ -1,0 +1,1579 @@
+{
+  "source": "ESCO official API snapshot 2026-11-09",
+  "skills": [
+    {
+      "id": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "label": "establish data processes",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "label": "data models",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "label": "report analysis results",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/505e4ef3-7ce4-437d-b7b4-5c608f71c258",
+      "label": "build recommender systems",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "label": "query languages",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "label": "design database scheme",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "label": "execute analytical mathematical calculations",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+      "label": "data mining",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/99207709-d076-4cce-ba38-e90d3bb28806",
+      "label": "resource description framework query language",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a",
+      "label": "online analytical processing",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213",
+      "label": "visual presentation techniques",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "label": "deliver visual presentation of data",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "label": "information categorisation",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8",
+      "label": "perform data cleansing",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+      "label": "statistics",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+      "label": "interpret current data",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "label": "manage data collection systems",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+      "label": "handle data samples",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+      "label": "normalise data",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/696e3b5b-8b61-45af-ae4c-3ab700f197ec",
+      "label": "information extraction",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "label": "develop data processing applications",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+      "label": "implement data quality processes",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "label": "collect ICT data",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/a57a54b6-2f2e-43e4-9621-b52f4a63cb08",
+      "label": "LDAP",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "label": "integrate ICT data",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/c7d24594-0c11-4b27-9039-fe0bb903da8e",
+      "label": "LINQ",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "label": "manage ICT data architecture",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+      "label": "create data models",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "label": "unstructured data",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "label": "perform data mining",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/54c9c155-9293-4329-8ed2-2e76e8b519d4",
+      "label": "define data quality criteria",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/1b7c716e-af95-4cda-a42f-6479c8b139f5",
+      "label": "MDX",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+      "label": "business intelligence",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1",
+      "label": "XQuery",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "label": "SPARQL",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+      "label": "data quality assessment",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+      "label": "N1QL",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/03a74eee-2dc6-4147-8667-5cdeb65f122d",
+      "label": "manage ICT data classification",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f",
+      "label": "manage data",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2",
+      "label": "principles of artificial intelligence",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "label": "web programming",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "label": "systems development life-cycle",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/cb89a5c0-b5cb-4c62-8e7e-7714631b66b5",
+      "label": "create semantic trees",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26",
+      "label": "use markup languages",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a",
+      "label": "natural language processing",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/d9e5349e-8791-49c2-8ba4-839fdd1606c2",
+      "label": "define technical requirements",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/fda917eb-0d6a-4371-8c93-2a10bf950966",
+      "label": "manage ICT semantic integration",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/0dc7aa1b-b5af-4f4b-81ce-ee22ed8b6926",
+      "label": "assess ICT knowledge",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "label": "database development tools",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/41bf7ede-fc84-4a57-8c89-b548d11b0ba1",
+      "label": "manage business knowledge",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+      "label": "analyse business requirements",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "label": "manage database",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb",
+      "label": "business process modelling",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "label": "task algorithmisation",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+      "label": "information structure",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+      "label": "apply ICT systems theory",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "label": "systems theory",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02",
+      "label": "Haskell",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "label": "PHP",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/52cf3037-ab53-4806-85ed-7fd21ea7f6a1",
+      "label": "Groovy",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/9973a5a2-7822-4161-99e9-95c781eb63f8",
+      "label": "Objective-C",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+      "label": "MATLAB",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+      "label": "cloud technologies",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/04f1b938-d4d4-4cb1-a863-982af76b9d93",
+      "label": "SAS language",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "label": "AJAX",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "label": "define database physical structure",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6",
+      "label": "Scala",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/dcdd5ddf-82a6-4ac3-8edc-d4b23cae9a88",
+      "label": "VBScript",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "label": "JavaScript",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/bb99af26-71ff-4dca-bde7-1eb1f6194426",
+      "label": "SAP R3",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/df0612db-366c-4ff5-b106-40b9e385195c",
+      "label": "utilise decision support system",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+      "label": "C#",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "label": "R",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/2618f336-8e71-4666-83b5-f368edb0906d",
+      "label": "cognitive psychology",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/2bde42ae-e776-41c1-9ded-b07b30bfe985",
+      "label": "Prolog (computer programming)",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "label": "OpenEdge Advanced Business Language",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
+      "label": "Smalltalk (computer programming)",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "label": "APL",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+      "label": "ML (computer programming)",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "label": "information architecture",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/8369ede5-4200-4a44-be2e-bc60ef959259",
+      "label": "Microsoft Visual C++",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "label": "Visual Studio .NET",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/401eb8d8-6daa-4f8b-90ad-60afc71eb4f8",
+      "label": "Perl",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+      "label": "Ruby (computer programming)",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f",
+      "label": "C++",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/993b1e23-f2de-4bd8-b33f-f86dde1c8e9d",
+      "label": "CoffeeScript",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/0cd6dcf1-5778-42a5-b685-4d01ae4a4871",
+      "label": "Common Lisp",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/867137fb-ff1b-4ca3-99f3-cb6969aa2c68",
+      "label": "TypeScript",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/d56fc2b5-4b0a-4e7e-9bde-a33736f6ff18",
+      "label": "Scratch (computer programming)",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a",
+      "label": "Swift (computer programming)",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+      "label": "Assembly (computer programming)",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "label": "ICT security legislation",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+      "label": "Pascal (computer programming)",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "label": "decision support systems",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "label": "ABAP",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "label": "ICT project management",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "label": "Java (computer programming)",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/034c29fa-c3ba-45ea-b8f3-bf8e3705e386",
+      "label": "Erlang",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "label": "design application interfaces",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+      "label": "build business relationships",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "label": "create database diagrams",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/def007fa-5fed-4a5f-91a2-b0d7e3db1be1",
+      "label": "COBOL",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/56a7f561-1d55-43c9-9cd7-36a0a9bc6c50",
+      "label": "ASP.NET",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "label": "Lisp",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "label": "computer programming",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    },
+    {
+      "id": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "label": "Python (computer programming)",
+      "aliases": [],
+      "source": "ESCO official API snapshot 2026-11-09",
+      "category": "technical",
+      "prerequisites": [],
+      "effort_hours": 20
+    }
+  ],
+  "occupations": [
+    {
+      "id": "http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30",
+      "label": "data scientist (ESCO)",
+      "description": "Data scientists find and interpret rich data sources, manage large amounts of data, merge data sources, ensure consistency of data-sets, and create visualisations to aid in understanding data. They build mathematical models using data, present and communicate data insights and findings to specialists and scientists in their team and if required, to a non-expert audience, and recommend ways to apply the data.",
+      "source": "ESCO official API snapshot 2026-11-09",
+      "requirements": [
+        {
+          "skill": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/505e4ef3-7ce4-437d-b7b4-5c608f71c258",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/99207709-d076-4cce-ba38-e90d3bb28806",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/696e3b5b-8b61-45af-ae4c-3ab700f197ec",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/a57a54b6-2f2e-43e4-9621-b52f4a63cb08",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/c7d24594-0c11-4b27-9039-fe0bb903da8e",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/54c9c155-9293-4329-8ed2-2e76e8b519d4",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/1b7c716e-af95-4cda-a42f-6479c8b139f5",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/03a74eee-2dc6-4147-8667-5cdeb65f122d",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "http://data.europa.eu/esco/occupation/812c217d-32b7-4f6a-9faf-993d3577ac7f",
+      "label": "knowledge engineer (ESCO)",
+      "description": "Knowledge engineers integrate structured knowledge into computer systems (knowledge bases) in order to solve complex problems normally requiring a high level of human expertise or artificial intelligence methods. They are also responsible for eliciting or extracting knowledge from information sources, maintaining this knowledge, and making it available to the organisation or users. To achieve this, they are aware of knowledge representation and maintenance techniques (rules, frames, semantic nets, ontologies) and use knowledge extraction techniques and tools. They can design and build expert or artificial intelligence systems that use this knowledge.",
+      "source": "ESCO official API snapshot 2026-11-09",
+      "requirements": [
+        {
+          "skill": "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/99207709-d076-4cce-ba38-e90d3bb28806",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/cb89a5c0-b5cb-4c62-8e7e-7714631b66b5",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/696e3b5b-8b61-45af-ae4c-3ab700f197ec",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/d9e5349e-8791-49c2-8ba4-839fdd1606c2",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/fda917eb-0d6a-4371-8c93-2a10bf950966",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/0dc7aa1b-b5af-4f4b-81ce-ee22ed8b6926",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/41bf7ede-fc84-4a57-8c89-b548d11b0ba1",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+          "type": "essential",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/52cf3037-ab53-4806-85ed-7fd21ea7f6a1",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/9973a5a2-7822-4161-99e9-95c781eb63f8",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/04f1b938-d4d4-4cb1-a863-982af76b9d93",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/dcdd5ddf-82a6-4ac3-8edc-d4b23cae9a88",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/bb99af26-71ff-4dca-bde7-1eb1f6194426",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/df0612db-366c-4ff5-b106-40b9e385195c",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/2618f336-8e71-4666-83b5-f368edb0906d",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/2bde42ae-e776-41c1-9ded-b07b30bfe985",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/c7d24594-0c11-4b27-9039-fe0bb903da8e",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/8369ede5-4200-4a44-be2e-bc60ef959259",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/401eb8d8-6daa-4f8b-90ad-60afc71eb4f8",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/993b1e23-f2de-4bd8-b33f-f86dde1c8e9d",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/0cd6dcf1-5778-42a5-b685-4d01ae4a4871",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/867137fb-ff1b-4ca3-99f3-cb6969aa2c68",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/d56fc2b5-4b0a-4e7e-9bde-a33736f6ff18",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/034c29fa-c3ba-45ea-b8f3-bf8e3705e386",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/def007fa-5fed-4a5f-91a2-b0d7e3db1be1",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/56a7f561-1d55-43c9-9cd7-36a0a9bc6c50",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        },
+        {
+          "skill": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+          "type": "optional",
+          "source": "ESCO official API snapshot 2026-11-09"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30&language=en",
+      "sha256": "c0a2176ad6db80c3aa6e01df800fd7c7e7fc1846dd12b8136d86fc5ce3676c32",
+      "occupation": "http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30",
+      "label": "data scientist",
+      "relationships": 39
+    },
+    {
+      "url": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/812c217d-32b7-4f6a-9faf-993d3577ac7f&language=en",
+      "sha256": "c85912c829e1527c39e23a2902d4035efe76e71524afa60bddad75f1bfa0a285",
+      "occupation": "http://data.europa.eu/esco/occupation/812c217d-32b7-4f6a-9faf-993d3577ac7f",
+      "label": "knowledge engineer",
+      "relationships": 78
+    }
+  ],
+  "note": "Limited attributable subset, not the complete ESCO release. No equivalence with DEMO concept IDs assumed. Prerequisites are not imported from ESCO."
+}
